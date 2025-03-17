@@ -1,5 +1,5 @@
 <h1>NBA Injury Explorer: Insights for Prevention</h1>
-
+[Project Link](https://moriojac.shinyapps.io/myapp/)
 
 <h2>Description</h2>
 This Shiny interactive application visualizes NBA injury data from 2010-2017, allowing users to explore injuries sustained by players and identify potential patterns. Interactive dashboards provide a comprehensive overview of injury trends in professional basketball, ultimately providing insights that can aid in injury prevention.
