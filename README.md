@@ -1,5 +1,4 @@
-<h1>NBA Injury Explorer: Insights for Prevention</h1>
-<a href="https://moriojac.shinyapps.io/myapp/">Project Link</a>
+<h1>NBA Injury Explorer: Insights for Prevention - <a href="https://moriojac.shinyapps.io/myapp/">Project Link</a> </h1>
 
 
 <h2>Description</h2>
