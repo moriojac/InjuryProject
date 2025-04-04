@@ -21,7 +21,7 @@ This Shiny interactive application visualizes NBA injury data from 2010-2017, al
   <tr>
     <td align="center" valign="top" width="25%">
       <div>
-        <img src="InjuryProject_P1.png" style="width: 100%; height: 200px; object-fit: cover;" />
+        <img src="InjuryProject_P1.png" style="width: 90%; height: 320px; object-fit: cover;" />
         <b>Data Collection</b>
         <p style="text-align: center; min-height: 150px;">
           For this project, data was collected from two primary sources: an NBA injury catalog and an NBA stats catalog, which can be found below.
@@ -30,7 +30,7 @@ This Shiny interactive application visualizes NBA injury data from 2010-2017, al
     </td>
     <td align="center" valign="top" width="25%">
       <div>
-        <img src="InjuryProject_P2.png" style="width: 100%; height: 200px; object-fit: cover;" />
+        <img src="InjuryProject_P2.png" style="width: 90%; height: 320px; object-fit: cover;" />
         <b>Data Cleaning and Preparation</b>
         <p style="text-align: center; min-height: 150px;">
           With the mix of manual organizing and the help of AI tools, all data from the Word document detailing 52 worship services was extracted and transferred to a CSV file.
@@ -39,7 +39,7 @@ This Shiny interactive application visualizes NBA injury data from 2010-2017, al
     </td>
     <td align="center" valign="top" width="25%">
       <div>
-        <img src="InjuryProject_P3.png" style="width: 100%; height: 200px; object-fit: cover;" />
+        <img src="InjuryProject_P3.png" style="width: 90%; height: 320px; object-fit: cover;" />
         <b>Data Visualization & Storytelling</b>
         <p style="text-align: center; min-height: 150px;">
           Data is manipulated into several visualizations, categorized into two sections:
@@ -49,7 +49,7 @@ This Shiny interactive application visualizes NBA injury data from 2010-2017, al
     </td>
     <td align="center" valign="top" width="25%">
       <div>
-        <img src="InjuryProject_P4.png" style="width: 100%; height: 200px; object-fit: cover;" />
+        <img src="InjuryProject_P4.png" style="width: 90%; height: 320px; object-fit: cover;" />
         <b>Interpretation & Decision-Making</b>
         <p style="text-align: center; min-height: 150px;">
           The goal of this data is to provide insights into worship service participation, allowing users to explore trends and recognize contributions within the music ministry.
