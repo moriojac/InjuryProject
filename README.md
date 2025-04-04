@@ -13,37 +13,63 @@ This Shiny interactive application visualizes NBA injury data from 2010-2017, al
 - <b>Shiny</b>
 
 
-<h1>Project Process:</h1>
+<div align="center">
+  <h1>Project Process</h1>
+</div>
 
-## Data Collection
-For this project, data was collected from two primary sources: an NBA injury catalog and an NBA stats catalog, which can be found below.
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="InjuryProject_P1.png" alt="Data Collection" style="width: 100%; height: auto;" />
+        <b>Data Collection</b>
+        <p style="text-align: center;">
+          <br>
+          For this project, data was collected from two primary sources: an NBA injury catalog and an NBA stats catalog, which can be found below.
+          <br><br>
+          <br><br>
+          "FCCWorshipData2024.docx"
+        </p>
+      </div>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="InjuryProject_P2.png" alt="Data Cleaning and Preparation" style="width: 100%; height: auto;" />
+        <b>Data Cleaning and Preparation</b>
+        <p style="text-align: center;">
+          <br>
+          With the mix of manual organizing and the help of AI tools, all data from the Word document detailing 52 worship services was extracted and transferred to a CSV file.
+          <br><br>
+          The CSV file can be found in the repository under:
+          <br><br>
+          "FCCWorshipData2024.csv"
+        </p>
+      </div>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="InjuryProject_P3.png" alt="Data Visualization & Storytelling" style="width: 100%; height: auto;" />
+        <b>Data Visualization & Storytelling</b>
+        <p style="text-align: center;">
+          <br>
+          Data is manipulated into several visualizations, categorized into two sections:
+         <br> <br/><b>Worship Service Insights:</b> Allows users to search by name to access a compiled overview of their service contributions.
+          <br> <br/><b>Musician Leaderboard:</b> Showcases the top musicians for each musical role.
+        </p>
+      </div>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="InjuryProject_P4.png" alt="Interpretation & Decision-Making" style="width: 100%; height: auto;" />
+        <b>Interpretation & Decision-Making</b>
+        <p style="text-align: center;">
+          <br>
+          The goal of this data is to provide insights into worship service participation, allowing users to explore trends and recognize contributions within the music ministry.
+          <br><br>
+          Insights from the data can help worship leaders make informed decisions, such as balancing musician rotations, identifying frequently played songs, and recognizing key contributors to each service.
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-- [NBA Injuries 2010-2018](https://www.kaggle.com/datasets/ghopkins/nba-injuries-2010-2018)
-- [NBA Player Stats](https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv)
-
-(via prosportstransactions.com and basketball-reference.com)
-
----
-
-## Data Cleaning and Preparation
-
-- **Filtering Data:** Only relevant years (2010-2017) were kept for both stats and injury datasets.
-- **Removing Unnecessary Columns:** Duplicate and irrelevant columns were dropped.
-- **Standardizing Column Names:** Column names were standardized to ensure consistency across datasets.
-- **Merging Datasets:** Data was merged on key attributes—Year, Player, and Team.
-
----
-
-## Data Visualization & Storytelling
-Data is manipulated into several visualizations, categorized into three sections:
-
-- **Injury Visualization:** Providing a comprehensive view of injuries sustained.
-- **Change Over Time:** Revealing injury growth, pointing to the need for better injury prevention.
-- **Contrast:** Identifying injury risks based on physical attributes and performance metrics.
-
----
-
-## Interpretation & Decision-Making
-The goal of this data is to offer insights that assist professionals in injury prevention, allowing the reader to interpret and make decisions based on the findings.
-
-Insights from the data can help teams develop targeted injury prevention strategies, such as **load management** for high-minute players and **conditioning/workout programs** based on position-specific vulnerabilities.
