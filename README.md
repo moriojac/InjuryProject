@@ -27,7 +27,7 @@ This Shiny interactive application visualizes NBA injury data from 2010-2017, al
         <br>
         <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
           For this project, data was collected from two primary sources: an NBA injury catalog and an NBA stats catalog, which can be found below.
-          <br><br> <a href="https://www.kaggle.com/datasets/ghopkins/nba-injuries-2010-2018">NBA Injuries 2010-2018</a>
+          <br><br> <a href="https://www.kaggle.com/datasets/ghopkins/nba-injuries-2010-2018">NBA Injuries 2010-2020</a>
           <br><br> <a href="https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv">NBA Player Stats</a>
           <!--<br><br> The document can be found in the repository as "FCCWorshipData2024.docx" -->
         </h6>
