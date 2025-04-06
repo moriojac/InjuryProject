@@ -62,8 +62,8 @@ This Shiny interactive application visualizes NBA injury data from 2010-2017, al
         <img src="InjuryProject_P4.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Interpretation & Decision-Making</b>
         <h6 style="text-align: center; min-height: 150px;">
-          The goal of this data is to provide insights into worship service participation, allowing users to explore trends and recognize contributions within the music ministry.
-        <br><br> Insights from the data can help worship leaders make informed decisions, such as balancing musician rotations, identifying frequently played songs, and recognizing key               contributors to each service
+          The goal of this data is to offer insights that assist professionals in injury prevention, allowing the reader to interpret and make decisions based on the findings.
+         <br><br> Insights from the data can help teams develop targeted injury prevention strategies, such as load management for high-minute players and conditioning/workout programs based on position-             specific vulnerabilities.
         </h6>
       </div>
     </td>
