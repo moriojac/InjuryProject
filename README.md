@@ -24,44 +24,48 @@ This Shiny interactive application visualizes NBA injury data from 2010-2017, al
       <div>
         <img src="InjuryProject_P1.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Collection</b>
-        <br><br>
-        <p style="text-align: center; min-height: 150px;">
-          For this project, data was collected from two primary sources: an NBA injury catalog and an NBA stats catalog, which can be found below.
-        </p>
+        <br>
+        <h6 style="text-align: center; min-height: 150px; font-size: 2px;">
+          For this project, I received a 41-page Word document detailing 52 worship services in 2024, including the songs performed, vocalists, and instrumentalists for each service.
+          <br><br><a href="./FCCWorshipData2024.docx" download>Download the Word document</a>
+          <!--<br><br> The document can be found in the repository as "FCCWorshipData2024.docx" -->
+        </h6>
       </div>
     </td>
     <td align="center" valign="top" width="25%">
       <div>
         <img src="InjuryProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Cleaning and Preparation</b>
-        <p style="text-align: center; min-height: 150px;">
-          <br>
+        <h6 style="text-align: center; min-height: 150px;">
           With the mix of manual organizing and the help of AI tools, all data from the Word document detailing 52 worship services was extracted and transferred to a CSV file.
-        </p>
+         <br><br> <a href="./FCCWorshipData2024.csv" download>Download the CSV File</a>
+          <!--<br><br> The CSV file can be found in the repository as "FCCWorshipData2024.csv"-->
+        </h6>
       </div>
     </td>
     <td align="center" valign="top" width="25%">
       <div>
         <img src="InjuryProject_P3.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Visualization & Storytelling</b>
-        <p style="text-align: center; min-height: 150px;">
-          <br>
+        <h6 style="text-align: center; min-height: 150px;">
           Data is manipulated into several visualizations, categorized into two sections:
           <br> <br/><b>Worship Service Insights:</b> Allows users to search by name to access a compiled overview of their service contributions.
-        </p>
+           <br> <br/><b>Musician Leaderboard:</b> Showcases the top musicians for each musical role.
+        </h6>
       </div>
     </td>
     <td align="center" valign="top" width="25%">
       <div>
         <img src="InjuryProject_P4.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Interpretation & Decision-Making</b>
-        <p style="text-align: center; min-height: 150px;">
-          <br>
+        <h6 style="text-align: center; min-height: 150px;">
           The goal of this data is to provide insights into worship service participation, allowing users to explore trends and recognize contributions within the music ministry.
-        </p>
+        <br><br> Insights from the data can help worship leaders make informed decisions, such as balancing musician rotations, identifying frequently played songs, and recognizing key               contributors to each service
+        </h6>
       </div>
     </td>
   </tr>
 </table>
+
 
 
