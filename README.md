@@ -29,7 +29,7 @@ This Shiny interactive application visualizes NBA injury data from 2010-2017, al
           For this project, data was collected from two primary sources: an NBA injury catalog and an NBA stats catalog, which can be found below.
           <br><br> <a href="https://www.kaggle.com/datasets/ghopkins/nba-injuries-2010-2018">NBA Injuries 2010-2020</a>
           <br><br> <a href="https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=Seasons_Stats.csv">NBA Player Stats</a>
-          <!--<br><br> The document can be found in the repository as "FCCWorshipData2024.docx" -->
+          <br><br> (via <a href="https://prosportstransactions.com/"> prosportstransactions.com </a> and <a href="https://www.basketball-reference.com/"> basketball-reference.com</a>)
         </h6>
       </div>
     </td>
@@ -38,9 +38,10 @@ This Shiny interactive application visualizes NBA injury data from 2010-2017, al
         <img src="InjuryProject_P2.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Cleaning and Preparation</b>
         <h6 style="text-align: center; min-height: 150px;">
-          With the mix of manual organizing and the help of AI tools, all data from the Word document detailing 52 worship services was extracted and transferred to a CSV file.
-         <br><br> <a href="./FCCWorshipData2024.csv" download>Download the CSV File</a>
-          <!--<br><br> The CSV file can be found in the repository as "FCCWorshipData2024.csv"-->
+          - Filtering Data: Only relevant years (2010-2017) were kept for both stats and injury datasets.
+         <br><br> - Removing Unnecessary Columns: Duplicate and irrelevant columns were dropped.
+         <br><br> - Standardizing Column Names: Column names were standardized to ensure consistency across datasets.
+         <br><br> - Merging Datasets: Data was merged on key attributes—Year, Player, and Team.
         </h6>
       </div>
     </td>
