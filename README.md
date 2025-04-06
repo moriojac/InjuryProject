@@ -50,9 +50,10 @@ This Shiny interactive application visualizes NBA injury data from 2010-2017, al
         <img src="InjuryProject_P3.png" style="width: 90%; height: 300px; object-fit: cover;" />
         <b>Data Visualization & Storytelling</b>
         <h6 style="text-align: center; min-height: 150px;">
-          Data is manipulated into several visualizations, categorized into two sections:
-          <br> <br/><b>Worship Service Insights:</b> Allows users to search by name to access a compiled overview of their service contributions.
-           <br> <br/><b>Musician Leaderboard:</b> Showcases the top musicians for each musical role.
+          Data is manipulated into several visualizations, categorized into three sections:
+         <br><br> - Injury Visualization: Providing a comprehensive view of injuries sustained.
+         <br><br> - Change Over Time: Revealing injury growth, pointing to the need for better injury prevention.
+         <br><br> - Contrast: Identifying injury risks based on physical attributes and performance metrics.
         </h6>
       </div>
     </td>
