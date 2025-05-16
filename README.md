@@ -11,6 +11,7 @@ This Shiny interactive application visualizes NBA injury data from 2010-2017, al
 - <b>R</b> 
 - <b>ggplot</b>
 - <b>Shiny</b>
+- <b>shinyapps.io</b>
 
 <br><br>
 
